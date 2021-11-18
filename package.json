@@ -1,0 +1,23 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taras-protsyshyn/js-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taras-protsyshyn/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/taras-protsyshyn/js-data-structures#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
