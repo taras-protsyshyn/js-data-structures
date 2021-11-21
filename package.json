@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "tree": "nodemon tree/tree.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,10 @@
   "homepage": "https://github.com/taras-protsyshyn/js-data-structures#readme",
   "dependencies": {
     "nodemon": "^2.0.15"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "*.json"
+    ]
   }
 }
