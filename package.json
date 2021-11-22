@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tree": "nodemon tree/tree.js"
+    "tree": "nodemon Tree/Tree.js",
+    "queue": "nodemon Queue/Queue.js"
   },
   "repository": {
     "type": "git",
