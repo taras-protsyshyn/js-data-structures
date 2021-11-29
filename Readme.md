@@ -1,4 +1,5 @@
-# In this repo was realized few data structures were via js.
+# Data structures
+The purpose of this repo is to practice with data structures
 
 ## [Tree](./Tree/Tree.js)
 
